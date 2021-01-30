@@ -4,4 +4,5 @@
 
 you can try out SHCL, isolated, in a docker container:
 
-`make`
+0) have docker and make installed
+0) `make`
